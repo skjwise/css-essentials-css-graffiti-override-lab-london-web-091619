@@ -3,7 +3,7 @@
   display: none;
 }
 
-#wall > div#tag-2, div#tag-3, div#tag-4, div#tag-5, div#tag-6, div#tag-7 {
+#wall > #tag-2, #tag-3, #tag-4, #tag-5, #tag-6, #tag-7 {
   width: 0px;
 }
 
